@@ -19,7 +19,7 @@ body {
     align-items: center;
     justify-content: space-between;
     gap: 20px;
-    background-color: #41444e;
+    background-color: #141415;
     margin: 0;
     width: 960px;
     max-width: 1200px;
@@ -46,14 +46,17 @@ body {
     padding: 20px;
     border-radius: 8px;
     width: 45%;
-    color: #959ccf;
+    color: #663939;
     font-family: "Open Sans", "Arial", sans-serif;
 }
+
+
 
 .tittle {
     text-align: center;
     font-size: 40px;
     font-weight: bold;
+    color: #9a5353;
 }
 
 @media (max-width: 1024px) {
