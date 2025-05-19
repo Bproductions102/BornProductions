@@ -9,7 +9,7 @@ header {
     display: flex;
     justify-content: flex-start;
     align-items: center;
-    background-color: #1d1e21;
+    background-color: #2a0e0e;
     padding: 10px 20px;
     font-family: "Open Sans", Arial, sans-serif;
 }
@@ -27,7 +27,7 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #959ccf;
+    color: #9a5353;
     font-size: 50px; 
     padding: 10px;
     transition: color 0.3s;
@@ -46,7 +46,7 @@ nav a:hover {
     position: absolute;
     top: 100%;
     left: 0;
-    background-color: #3c3f49;
+    background-color: #311f1f;
     list-style: none;
     padding: 0;
     margin: 0;
@@ -56,13 +56,13 @@ nav a:hover {
 .nested-menu .Me,
 .nested-menu li {
     padding: 15px;
-    color: #959ccf;
+    color: #9a5353;
     font-size: 24px; 
 }
 
 .nested-menu .Me:hover,
 .nested-menu li:hover {
-    background-color: #959ccf;
+    background-color: #9a5353;
     color: #fff;
 }
 
